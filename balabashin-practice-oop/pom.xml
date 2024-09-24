@@ -10,7 +10,6 @@
   <name>balabashin-practice-oop</name>
   <url>http://maven.apache.org</url>
 
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.target>1.21</maven.compiler.target>
